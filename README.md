@@ -1,7 +1,7 @@
 # 🧠 Recursive Insight Protocol (RIP-1.1)
 
 **Version:** 1.1  
-**Created by:** [You] + ChatGPT  
+**Created by:** Dennis Mittmann + ChatGPT  
 **Purpose:** A structured method for exploring complex, open-ended problems using recursive reasoning, evolving truth states, and symbolic reflection.
 
 ---
